@@ -1,0 +1,18 @@
+[
+    {
+        "tag": "uavstage",
+        "intlLabel": {"id": "uavstage", "defaultMessage": "無人機場景"}    
+    },
+    {
+        "tag": "telecarstage",
+        "intlLabel": {"id": "telecarstage", "defaultMessage": "無人車場景"}    
+    },
+    {
+        "tag": "robotstage",
+        "intlLabel": {"id": "robotstage", "defaultMessage": "機器人場景"}    
+    },
+    {
+        "tag": "michanicalarmstage",
+        "intlLabel": {"id": "michanicalarmstage", "defaultMessage": "機械臂場景"}    
+    }
+]

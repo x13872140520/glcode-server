@@ -1,0 +1,18 @@
+[
+    {
+        "tag": "uavstage",
+        "intlLabel": {"id": "uavstage", "defaultMessage": "UAV Stage"}    
+    },
+    {
+        "tag": "telecarstage",
+        "intlLabel": {"id": "telecarstage", "defaultMessage": "Telecar Stage"}    
+    },
+    {
+        "tag": "robotstage",
+        "intlLabel": {"id": "robotstage", "defaultMessage": "Robot Stage"}    
+    },
+    {
+        "tag": "michanicalarmstage",
+        "intlLabel": {"id": "michanicalarmstage", "defaultMessage": "Michanicalarm Stage"}    
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Baseball 1",
+        "tags": [
+            "uavstage"
+        ],
+        "assetId": "825d9b54682c406215d9d1f98a819449",
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "md5ext": "825d9b54682c406215d9d1f98a819449.svg",
+        "rotationCenterX": 300,
+        "rotationCenterY": 180
+    },
+    {
+        "name": "Desert",
+        "tags": [
+            "telecarstage",
+            "michanicalarmstage"
+            ],
+            "assetId": "d98a9526a34890cf4bad11b5409eae2a",
+            "bitmapResolution": 2,
+            "dataFormat": "png",
+            "md5ext": "d98a9526a34890cf4bad11b5409eae2a.png",
+            "rotationCenterX": 480,
+            "rotationCenterY": 360
+            }
+]
