@@ -47,6 +47,7 @@ app.get("/getStageList", function (req, res) {
   res.send(stageList);
 });
 const port = 8603;
-app.listen(port,'127.0.0.1', function () {
+//127.0.0.1会导致无法访问
+app.listen(port,'0.0.0.0', function () {
   console.log("sever05231346 listen to : " + port);
 });
