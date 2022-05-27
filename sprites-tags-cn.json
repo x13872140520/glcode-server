@@ -1,0 +1,22 @@
+[
+    {
+        "tag": "uav",
+        "intlLabel": {"id": "uav", "defaultMessage": "无人机"}    
+    },
+    {
+        "tag": "telecar",
+        "intlLabel": {"id": "telecar", "defaultMessage": "无人车"}    
+    },
+    {
+        "tag": "robot",
+        "intlLabel": {"id": "robot", "defaultMessage": "机器人"}    
+    },
+    {
+        "tag": "michanicalarm",
+        "intlLabel": {"id": "michanicalarm", "defaultMessage": "机械臂"}    
+    },
+    {
+        "tag": "stage",
+        "intlLabel": {"id": "stage", "defaultMessage": "场景"}    
+    }
+]

@@ -1,0 +1,249 @@
+[
+    
+    {
+        "name": "uav",
+        "tags": [
+            "uav"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "f52bde34d8027aab14b53f228fe5cc14",
+                "name": "uav",
+                "bitmapResolution": 2,
+                "md5ext": "f52bde34d8027aab14b53f228fe5cc14.svg",
+                "dataFormat": "png",
+                "rotationCenterX": 50,
+                "rotationCenterY": 50
+            }
+        ],
+        "sounds": [
+            
+        ],
+        "blocks": {}
+    },
+    {
+        "name": "uav2",
+        "tags": [
+            "uav"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "920f14335615fff9b8c55fccb8971984",
+                "name": "uav2",
+                "bitmapResolution": 2,
+                "md5ext": "920f14335615fff9b8c55fccb8971984.svg",
+                "dataFormat": "png",
+                "rotationCenterX": 50,
+                "rotationCenterY": 50
+            }
+        ],
+        "sounds": [
+            
+        ],
+        "blocks": {}
+    },
+    {
+        "name": "car",
+        "tags": [
+            "Telecar"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "dc6a584704c09a3fbafb9825635a9fd4",
+                "name": "car",
+                "bitmapResolution": 2,
+                "md5ext": "dc6a584704c09a3fbafb9825635a9fd4.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 50,
+                "rotationCenterY": 50
+            }
+        ],
+        "sounds": [{
+            "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+            "name": "car",
+            "dataFormat": "wav",
+            "format": "",
+            "rate": 44100,
+            "sampleCount": 1032,
+            "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+        }],
+        "blocks": {}
+    },
+    {
+        "name": "Cat",
+        "tags": [
+            "animals",
+            "cat",
+            "kitten",
+            "kitty",
+            "mammal",
+            "orange",
+            "scratch cat"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "bcf454acf82e4504149f7ffe07081dbc",
+                "name": "cat-a",
+                "bitmapResolution": 1,
+                "md5ext": "bcf454acf82e4504149f7ffe07081dbc.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 48,
+                "rotationCenterY": 50
+            }],
+        "sounds": [{
+                "assetId": "83c36d806dc92327b9e7049a565c6bff",
+                "name": "Meow",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 37376,
+                "md5ext": "83c36d806dc92327b9e7049a565c6bff.wav"
+            }],
+        "blocks": {}
+    },
+    {
+        "name": "super arm",
+        "tags": [
+            "michanicalarm"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "b36584db82bdd45014430aa918461ca0",
+                "name": "amon",
+                "bitmapResolution": 2,
+                "md5ext": "b36584db82bdd45014430aa918461ca0.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 174,
+                "rotationCenterY": 162
+            }
+        ],
+        "sounds": [{
+            "assetId": "b235da45581b1f212c9e9cce70d2a2dc",
+            "name": "car",
+            "dataFormat": "wav",
+            "format": "",
+            "rate": 44100,
+            "sampleCount": 1032,
+            "md5ext": "b235da45581b1f212c9e9cce70d2a2dc.wav"
+        }],
+        "blocks": {}
+    },
+    {
+        "name": "michanicalarm",
+        "tags": [
+            "michanicalarm"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "3826a4091a33e4d26f87a2fac7cf796b",
+                "name": "michanicalarm",
+                "bitmapResolution": 2,
+                "md5ext": "3826a4091a33e4d26f87a2fac7cf796b.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 174,
+                "rotationCenterY": 162
+            }
+        ],
+        "sounds": [],
+        "blocks": {}
+    },
+    {
+        "name": "michanicalarm2",
+        "tags": [
+            "michanicalarm"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "3c6241985b581284ec191f9d1deffde8",
+                "name": "michanicalarm2",
+                "bitmapResolution": 2,
+                "md5ext": "3c6241985b581284ec191f9d1deffde8.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 174,
+                "rotationCenterY": 162
+            }
+        ],
+        "sounds": [],
+        "blocks": {}
+    },
+    {
+        "name": "robot",
+        "tags": [
+            "robot"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "65b8e977641885010a10a46512fb95b4",
+                "name": "robot",
+                "bitmapResolution": 2,
+                "md5ext": "65b8e977641885010a10a46512fb95b4.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 174,
+                "rotationCenterY": 162
+            }
+        ],
+        "sounds": [],
+        "blocks": {}
+    },
+    {
+        "name": "robot2",
+        "tags": [
+            "robot"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "be8fcd10da0b082f8d4775088ef7bd52",
+                "name": "robot2",
+                "bitmapResolution": 2,
+                "md5ext": "be8fcd10da0b082f8d4775088ef7bd52.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 174,
+                "rotationCenterY": 162
+            }
+        ],
+        "sounds": [],
+        "blocks": {}
+    },
+    {
+        "name": "Baseball 1",
+        "tags": [
+            "stage"
+        ],
+        "assetId": "825d9b54682c406215d9d1f98a819449",
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "md5ext": "825d9b54682c406215d9d1f98a819449.svg",
+        "rotationCenterX": 300,
+        "rotationCenterY": 300
+    },
+    {
+        "name": "Arctic",
+        "tags": [
+            "stage"
+        ],
+        "assetId": "67e0db3305b3c8bac3a363b1c428892e",
+        "bitmapResolution": 2,
+        "dataFormat": "svg",
+        "md5ext": "67e0db3305b3c8bac3a363b1c428892e.svg",
+        "rotationCenterX": 300,
+        "rotationCenterY": 300
+    }
+]

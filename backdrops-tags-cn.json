@@ -1,7 +1,7 @@
 [
     {
-        "tag": "uavstage",
-        "intlLabel": {"id": "uavstage", "defaultMessage": "无人机场景"}    
+        "tag": "12345",
+        "intlLabel": {"id": "12345", "defaultMessage": "无人机场景"}    
     },
     {
         "tag": "telecarstage",

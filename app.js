@@ -5,7 +5,11 @@ const { response } = require("express");
 const stageTagsListCn = require('./backdrops-tags-cn.json')
 const stageTagsListTw = require('./backdrops-tags-tw.json')
 const stageTagsListEn = require('./backdrops-tags-en.json')
+const spritesTagsListCn = require('./sprites-tags-cn.json')
+const spritesTagsListTw = require('./sprites-tags-tw.json')
+const spritesTagsListEn = require('./sprites-tags-en.json')
 const stageList = require('./backdrops.json')
+const spritesList = require('./sprites.json')
 const app = express();
 
 app.get("*", function (req, res, next) {
@@ -37,14 +41,24 @@ app.get("/internalapi/asset/*/get/", function (req, res) {
   }
 });
 var lanMap=[]
+var spriteMap=[]
 lanMap['en']=stageTagsListEn
 lanMap['zh-cn']=stageTagsListCn
 lanMap['zh-tw']=stageTagsListTw
+spriteMap['en']=spritesTagsListEn
+spriteMap['zh-cn']=spritesTagsListCn
+spriteMap['zh-tw']=spritesTagsListTw
 app.get("/getStageTags", function (req, res) {
   res.send(lanMap[req.query.language]);
 });
 app.get("/getStageList", function (req, res) {
   res.send(stageList);
+});
+app.get("/getSpritesList", function (req, res) {
+  res.send(spritesList);
+});
+app.get("/getSpritesTag", function (req, res) {
+  res.send(spriteMap[req.query.language]);
 });
 const port = 8603;
 //127.0.0.1会导致无法访问
